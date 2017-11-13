@@ -1,0 +1,21 @@
+{
+	"name": "request-haeader-parser-microservice",
+	"version": "0.0.1",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"engines": {
+		"node": "8.7.0"
+	},
+	"dependencies": {
+		"express": "^4.16.2",
+		"express-useragent": "^1.0.8"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/maribelduran/request-header-parser-microservice.git"
+	},
+	"author": "Maribel Duran"
+}
