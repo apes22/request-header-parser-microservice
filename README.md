@@ -1,7 +1,7 @@
 # Request Header Parser Microservice
 
 You can get your IP address, language, operating system, and browser specs by visiting:
-[https://req-header-parser-srvc.herokuapp.com/whoami](https://req-header-parser-srvc.herokuapp.com/whoami)
+[https://req-header-parser-srvc.herokuapp.com](https://req-header-parser-srvc.herokuapp.com)
 
 A Full Stack Javascript application built using NodeJS and Express.
 An API Project for FreeCodeCamp.
