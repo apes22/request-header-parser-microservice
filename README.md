@@ -22,6 +22,6 @@ An API Project for FreeCodeCamp.
 ## To Run Project Locally
 1. Fork this repo
 2. Clone the fork
-3. `$ npm install`
-4. `$ node app.js`
+3. Install Dependencies: `$ npm install`
+4. Start the Server: `$ node app.js`
 5. Visit http://localhost:3000/
